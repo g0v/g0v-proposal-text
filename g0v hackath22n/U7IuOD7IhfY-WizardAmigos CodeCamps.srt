@@ -1,0 +1,213 @@
+1
+00:00:30,000 --> 00:00:37,000
+So I'm Alex, and this is Nina.
+
+2
+00:00:37,000 --> 00:00:44,000
+We are from Germany, from Berlin.
+
+3
+00:00:44,000 --> 00:00:49,000
+We arrived in the end of October, and we had now been waiting for actually this
+
+4
+00:00:49,000 --> 00:00:56,000
+and we had some time, and in the meantime we tried to adapt a project that we
+
+5
+00:00:56,000 --> 00:01:01,000
+already started in Berlin to Taiwan.
+
+6
+00:01:01,000 --> 00:01:08,000
+We were also inspired by saying that democracy needs more programmers or
+
+7
+00:01:08,000 --> 00:01:13,000
+hackers, developers, of course lots of engaged people in general.
+
+8
+00:01:13,000 --> 00:01:17,000
+So we thought maybe we can do something about it, and we researched a bit of
+
+9
+00:01:17,000 --> 00:01:24,000
+Taiwan, and I hope I'm not completely off, but we figured out that from the
+
+10
+00:01:24,000 --> 00:01:29,000
+hardware that was traditionally going on here, lots of stuff goes to China and
+
+11
+00:01:29,000 --> 00:01:35,000
+maybe Vietnam, and we read a lot that maybe software could be a solution,
+
+12
+00:01:35,000 --> 00:01:38,000
+so that it should be more service-oriented.
+
+13
+00:01:38,000 --> 00:01:44,000
+And we figured also out that in general, in the world, a lot of programming
+
+14
+00:01:44,000 --> 00:01:51,000
+jobs or computer science-related jobs open, and there's not enough people to
+
+15
+00:01:51,000 --> 00:01:56,000
+follow these job openings, and we also found some statistics on Taiwan.
+
+16
+00:01:56,000 --> 00:02:00,000
+Like here it says, for example, this was three years ago, so how many job
+
+17
+00:02:00,000 --> 00:02:05,000
+openings and how many people come to fill these positions, and now how it's
+
+18
+00:02:05,000 --> 00:02:07,000
+today.
+
+19
+00:02:07,000 --> 00:02:13,000
+So yeah, a few more people now are there, but the demand grows faster.
+
+20
+00:02:13,000 --> 00:02:20,000
+So yeah, we thought maybe we can do something about it.
+
+21
+00:02:20,000 --> 00:02:26,000
+So we thought, okay, maybe we know some JavaScript, and we already started a
+
+22
+00:02:26,000 --> 00:02:32,000
+little school in Germany for the refugees, and also we tried with some kids,
+
+23
+00:02:32,000 --> 00:02:37,000
+and now we have open source and for free, and maybe we can adapt this to teach
+
+24
+00:02:37,000 --> 00:02:42,000
+people maybe to use the software to make something on top of the hardware,
+
+25
+00:02:42,000 --> 00:02:45,000
+because this is already present in Taiwan.
+
+26
+00:02:45,000 --> 00:02:50,000
+And then we thought, okay, what could be the model?
+
+27
+00:02:50,000 --> 00:02:53,000
+So we checked in the US and Canada, there's a lot of boot camps popping up
+
+28
+00:02:53,000 --> 00:02:57,000
+everywhere, and they're like 138% market growth.
+
+29
+00:02:57,000 --> 00:03:03,000
+And now in the US there's like 91 full-time boot camps, and the average
+
+30
+00:03:03,000 --> 00:03:07,000
+cost, that's the problem, because it would not be for everyone, would be like
+
+31
+00:03:07,000 --> 00:03:11,000
+around $11,000 in it for 30 weeks.
+
+32
+00:03:11,000 --> 00:03:16,000
+So translated from the average salary in the States to the average salary in
+
+33
+00:03:16,000 --> 00:03:23,000
+Taiwan, this would be an average tuition of $2,500 in US dollars in Taiwan.
+
+34
+00:03:23,000 --> 00:03:28,000
+So we thought, okay, let's create something, and because JavaScript is
+
+35
+00:03:28,000 --> 00:03:32,000
+kind of growing so fast, and there's like a huge ecosystem of reusable little
+
+36
+00:03:32,000 --> 00:03:37,000
+models that maybe can be combined to make it easier to build some stuff fast
+
+37
+00:03:37,000 --> 00:03:41,000
+by reusing open source code that already exists.
+
+38
+00:03:41,000 --> 00:03:49,000
+So we started actually on the 2nd of this month, making like every day,
+
+39
+00:03:49,000 --> 00:03:53,000
+not every day, like not on Thursdays, making, can you go back?
+
+40
+00:03:53,000 --> 00:03:58,000
+So making like all these boot camps, like every day from 7 to 11, we had like
+
+41
+00:03:58,000 --> 00:04:04,000
+a little free coding lessons, and people just came, and these are just some
+
+42
+00:04:04,000 --> 00:04:09,000
+pictures from some of the events that we had now a lot in the last 2 weeks,
+
+43
+00:04:09,000 --> 00:04:16,000
+or 2 and a half, and so all this stuff is open source and it's online.
+
+44
+00:04:16,000 --> 00:04:20,000
+So we had like back in Berlin this alpha version, which was just we put it
+
+45
+00:04:20,000 --> 00:04:26,000
+together somehow, it's still visible on wizardamigos.com.
+
+46
+00:04:26,000 --> 00:04:27,000
+Oh, okay.
+
+47
+00:04:27,000 --> 00:04:28,000
+So we need collaborators.
+
+48
+00:04:28,000 --> 00:04:29,000
+Yeah, we need collaborators.
+
+49
+00:04:29,000 --> 00:04:31,000
+I didn't get it.
+
+50
+00:04:31,000 --> 00:04:33,000
+Okay, so...
+
+51
+00:04:33,000 --> 00:04:36,000
+Yeah, please come and ask us if you're interested.
+
+52
+00:04:36,000 --> 00:04:38,000
+Thanks.
+
+53
+00:04:38,000 --> 00:05:04,000
+Thank you.
+
+
