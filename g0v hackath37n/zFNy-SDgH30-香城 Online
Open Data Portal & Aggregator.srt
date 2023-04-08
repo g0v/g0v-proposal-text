@@ -1,0 +1,105 @@
+1
+00:00:00,000 --> 00:00:03,600
+We are going to make an open data portal in Hong Kong.
+
+2
+00:00:03,600 --> 00:00:11,200
+So to start with, we actually have very small different communities in Hong Kong
+
+3
+00:00:11,200 --> 00:00:20,000
+that are gathering all kinds of shops and things in different segments of districts in Hong Kong.
+
+4
+00:00:20,000 --> 00:00:24,900
+So we have spreadsheets and maps, these kinds of data,
+
+5
+00:00:24,900 --> 00:00:29,600
+but they are all spread out in all different kinds of communities.
+
+6
+00:00:29,600 --> 00:00:36,100
+So I want to make a united portal, something like that,
+
+7
+00:00:36,100 --> 00:00:50,400
+to deduplicate and gather around, and most importantly, to weight them.
+
+8
+00:00:50,400 --> 00:00:54,100
+Because we don't know who to trust in Hong Kong, honestly.
+
+9
+00:00:54,100 --> 00:01:01,500
+So by weighting them, we could get a grip on what could be trusted on what scale of it,
+
+10
+00:01:01,500 --> 00:01:06,200
+and then we would publicly publish it on the internet.
+
+11
+00:01:06,200 --> 00:01:11,700
+So what currently we have is the cooperation from shops,
+
+12
+00:01:11,700 --> 00:01:21,400
+that we have a few dozen shops that promise to collaborate around to provide support on the list,
+
+13
+00:01:21,400 --> 00:01:28,400
+and also from the community to provide listings of what data they have gathered around,
+
+14
+00:01:28,400 --> 00:01:36,400
+and all few partners like me that has the power to do things like this.
+
+15
+00:01:36,400 --> 00:01:44,500
+So I want to say that because of this tool, when it's born,
+
+16
+00:01:44,500 --> 00:01:49,100
+it could be utilized by our enemies to attack us.
+
+17
+00:01:49,100 --> 00:02:02,100
+So it would not be a thing to study in this hackathon on how to counterattack it.
+
+18
+00:02:02,100 --> 00:02:12,900
+So what I wish is to lower the participate barrier to anonymize how we could have submitted data,
+
+19
+00:02:12,900 --> 00:02:19,600
+and the standardized data format is very important for us to make a database,
+
+20
+00:02:19,600 --> 00:02:23,500
+so that it could bore in our scheme or something like that.
+
+21
+00:02:23,500 --> 00:02:29,200
+And also a reasonable weighting standard,
+
+22
+00:02:29,200 --> 00:02:35,900
+so that people had an open standard to see why this shop is weighted like this.
+
+23
+00:02:35,900 --> 00:02:42,900
+And finally, if possible, we would like to lock it in blockchain,
+
+24
+00:02:42,900 --> 00:02:49,100
+so that the immutable attribute could contribute like that.
+
+25
+00:02:49,100 --> 00:02:55,500
+So these guys I'm looking for today, so hopefully I could encounter some of you.
+
+26
+00:02:55,500 --> 00:03:08,500
+Thank you.
+
+

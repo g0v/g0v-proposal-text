@@ -1,0 +1,53 @@
+1
+00:00:00,000 --> 00:00:11,000
+Hello, I'm Haruseki from Japan, and I'd like to introduce our hackathon right now we are running.
+
+2
+00:00:11,000 --> 00:00:21,000
+Hello from Japan, and I'm an organizer of Facing the Ocean, also.
+
+3
+00:00:21,000 --> 00:00:37,000
+And today I'd like to introduce one of my projects, Tokyo Metropolitan Government Coronavirus website.
+
+4
+00:00:37,000 --> 00:00:52,000
+From this site, you can see the situation about the coronavirus in Tokyo from the graphs, and also the source code is published on the GitHub.
+
+5
+00:00:52,000 --> 00:01:09,000
+Actually, our website became very popular, and many contributors helped to improve our website.
+
+6
+00:01:09,000 --> 00:01:27,000
+Thank you very much. Actually, there are many issues, and also many contributors helped to close that issue in one week.
+
+7
+00:01:27,000 --> 00:01:37,000
+More than 400 issues were closed. Amazing. And we have also other locations.
+
+8
+00:01:37,000 --> 00:02:00,000
+My edit was deleted, but we have Hokkaido prefecture, and also Aichi prefecture, and also two or three other prefectures are coming using our source code.
+
+9
+00:02:00,000 --> 00:02:14,000
+And today, the hackathon, we are planning to update the internationalization features and also support other deployments.
+
+10
+00:02:14,000 --> 00:02:21,000
+There are many prefectures, they want to use our source code.
+
+11
+00:02:21,000 --> 00:02:38,000
+And also, we have many pull requests already, so we will review the requests and merge it, eliminate those pull requests.
+
+12
+00:02:38,000 --> 00:02:54,000
+So, if you are interested, please join our Slack, and also I will link this site on the spreadsheet. So, please join our hackathon if you are interested in.
+
+13
+00:02:54,000 --> 00:03:09,000
+Thank you.
+
+
