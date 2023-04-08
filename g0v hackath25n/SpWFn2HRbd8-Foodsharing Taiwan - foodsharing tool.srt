@@ -1,0 +1,125 @@
+1
+00:00:00,000 --> 00:00:07,000
+I'm Stefan from Food Sharing Taiwan, which actually is a project to fight food waste
+
+2
+00:00:07,000 --> 00:00:16,000
+in Taiwan through enabling people to share food peer-to-peer, to have co-operations,
+
+3
+00:00:16,000 --> 00:00:22,000
+to organize co-operations with food retailers and also to set up public fridges all over
+
+4
+00:00:22,000 --> 00:00:23,000
+Taiwan.
+
+5
+00:00:23,000 --> 00:00:29,000
+So far we have a Facebook group and also there's already some reports about us.
+
+6
+00:00:29,000 --> 00:00:36,000
+So the concept originally is from Germany, where we have this very nice website, which
+
+7
+00:00:36,000 --> 00:00:38,000
+includes a map.
+
+8
+00:00:38,000 --> 00:00:43,000
+So the map actually is used to show people where food is available.
+
+9
+00:00:43,000 --> 00:00:48,000
+So if people want to share food, they can just put it on the map and also when stores
+
+10
+00:00:48,000 --> 00:00:51,000
+want to share food, they also can put it on a map.
+
+11
+00:00:51,000 --> 00:00:54,000
+So everything basically is organized through this map.
+
+12
+00:00:54,000 --> 00:01:01,000
+The only problem is that so far this website just exists in German language.
+
+13
+00:01:01,000 --> 00:01:07,000
+So as the concept of food sharing becomes more and more popular in other languages,
+
+14
+00:01:07,000 --> 00:01:13,000
+there's now people working on a food-saving worldwide website, like a multi-language website,
+
+15
+00:01:13,000 --> 00:01:16,000
+which you can find on foodsaving.world.
+
+16
+00:01:16,000 --> 00:01:21,000
+So it already exists and it also has this map function.
+
+17
+00:01:21,000 --> 00:01:29,000
+It is actually open source and it will be coded live and shared on GitHub.
+
+18
+00:01:29,000 --> 00:01:35,000
+So I'm basically here to spread the word about this project.
+
+19
+00:01:35,000 --> 00:01:40,000
+So the code and everything is on GitHub.
+
+20
+00:01:40,000 --> 00:01:48,000
+So for us it's just important to find some more people who might want to help work on
+
+21
+00:01:48,000 --> 00:01:52,000
+this project, like programmers, developers and coders.
+
+22
+00:01:52,000 --> 00:02:00,000
+So we even have a blog, which is always up to date and informing about the progress of
+
+23
+00:02:00,000 --> 00:02:04,000
+the actual status of this website.
+
+24
+00:02:04,000 --> 00:02:12,000
+And we also have a food-saving roadmap, where we already basically have an idea what will
+
+25
+00:02:12,000 --> 00:02:15,000
+be the next releases and steps.
+
+26
+00:02:15,000 --> 00:02:21,000
+So if there's anybody here who might be interested in contributing to this project,
+
+27
+00:02:21,000 --> 00:02:29,000
+you can just contact us through our Facebook page, Foodsharing Taiwan,
+
+28
+00:02:29,000 --> 00:02:34,000
+or you can just send an email to foodsharingtaiwan at gmail.com.
+
+29
+00:02:34,000 --> 00:02:42,000
+Or actually we are also on Slack, so you can find us basically just for Unity on Slack.
+
+30
+00:02:42,000 --> 00:02:48,000
+So every support is very welcome, so just get in touch with us or just talk to me or
+
+31
+00:02:48,000 --> 00:03:13,000
+you see me around here today.
+
+

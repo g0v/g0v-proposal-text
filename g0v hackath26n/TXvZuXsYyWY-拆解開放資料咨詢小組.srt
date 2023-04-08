@@ -1,0 +1,257 @@
+1
+00:00:00,000 --> 00:00:02,960
+If you propose a project, please come forward.
+
+2
+00:00:30,000 --> 00:00:40,000
+Hello, I'm Ronnie Wong.
+
+3
+00:00:40,000 --> 00:00:42,000
+Today I want to propose a project called
+
+4
+00:00:42,000 --> 00:00:44,000
+Disassembling Open Data Consulting Group.
+
+5
+00:00:44,000 --> 00:00:46,000
+What is Open Data Consulting Group?
+
+6
+00:00:46,000 --> 00:00:48,000
+Open Data Consulting Group is a group that has been
+
+7
+00:00:48,000 --> 00:00:50,000
+pushing open data for several years.
+
+8
+00:00:50,000 --> 00:00:52,000
+We have established a method for
+
+9
+00:00:52,000 --> 00:00:54,000
+the Open Data Consulting Group.
+
+10
+00:00:54,000 --> 00:00:56,000
+All the second-level ministries,
+
+11
+00:00:56,000 --> 00:00:58,000
+such as the Ministry of Interior, Ministry of Foreign Affairs,
+
+12
+00:00:58,000 --> 00:01:00,000
+and the Cabinet, all need an
+
+13
+00:01:00,000 --> 00:01:02,000
+Open Data Consulting Group.
+
+14
+00:01:02,000 --> 00:01:04,000
+There are several key points in the Open Data Consulting Group.
+
+15
+00:01:04,000 --> 00:01:06,000
+First, in the past,
+
+16
+00:01:06,000 --> 00:01:08,000
+every season, there was a meeting.
+
+17
+00:01:08,000 --> 00:01:10,000
+This year, we are changing to hold a meeting every six months.
+
+18
+00:01:10,000 --> 00:01:12,000
+The number of members of the group
+
+19
+00:01:12,000 --> 00:01:14,000
+cannot be less than one-third.
+
+20
+00:01:14,000 --> 00:01:16,000
+The group will also
+
+21
+00:01:16,000 --> 00:01:18,000
+discuss the Open Data
+
+22
+00:01:18,000 --> 00:01:20,000
+for the next issue.
+
+23
+00:01:20,000 --> 00:01:22,000
+The group may propose some ideas
+
+24
+00:01:22,000 --> 00:01:24,000
+on how to deal with the open data.
+
+25
+00:01:24,000 --> 00:01:26,000
+Or if the group has any demands,
+
+26
+00:01:26,000 --> 00:01:28,000
+the government may think that
+
+27
+00:01:28,000 --> 00:01:30,000
+the group is not suitable for public discussion.
+
+28
+00:01:30,000 --> 00:01:32,000
+The government must propose
+
+29
+00:01:32,000 --> 00:01:34,000
+why the group cannot be public
+
+30
+00:01:34,000 --> 00:01:36,000
+and persuade the members of the group
+
+31
+00:01:36,000 --> 00:01:38,000
+to tell the public why the group cannot be public.
+
+32
+00:01:38,000 --> 00:01:40,000
+It sounds like a perfect group.
+
+33
+00:01:40,000 --> 00:01:42,000
+However,
+
+34
+00:01:42,000 --> 00:01:44,000
+the members of the group
+
+35
+00:01:44,000 --> 00:01:46,000
+announced by the Executive Committee
+
+36
+00:01:46,000 --> 00:01:48,000
+include a procurator
+
+37
+00:01:48,000 --> 00:01:50,000
+and two retired civil servants
+
+38
+00:01:50,000 --> 00:01:52,000
+from the Executive Committee.
+
+39
+00:01:52,000 --> 00:01:54,000
+They are the representatives of the public.
+
+40
+00:01:54,000 --> 00:01:56,000
+They have a consensus
+
+41
+00:01:56,000 --> 00:01:58,000
+in the meeting.
+
+42
+00:01:58,000 --> 00:02:00,000
+They are not so private.
+
+43
+00:02:00,000 --> 00:02:02,000
+Some of the groups
+
+44
+00:02:02,000 --> 00:02:04,000
+have never held a meeting
+
+45
+00:02:04,000 --> 00:02:06,000
+because the Executive Committee
+
+46
+00:02:06,000 --> 00:02:08,000
+has no established way to hold a meeting.
+
+47
+00:02:08,000 --> 00:02:10,000
+What is the purpose of this proposal?
+
+48
+00:02:10,000 --> 00:02:12,000
+It is to disassemble the group.
+
+49
+00:02:12,000 --> 00:02:14,000
+This group
+
+50
+00:02:14,000 --> 00:02:16,000
+includes all the second-level groups.
+
+51
+00:02:16,000 --> 00:02:18,000
+We will open a Google
+
+52
+00:02:18,000 --> 00:02:20,000
+calculation table for the second-level groups.
+
+53
+00:02:20,000 --> 00:02:22,000
+We will organize the meetings
+
+54
+00:02:22,000 --> 00:02:24,000
+and decide who has more meetings
+
+55
+00:02:24,000 --> 00:02:26,000
+and who has less meetings.
+
+56
+00:02:26,000 --> 00:02:28,000
+We will add a label for each member
+
+57
+00:02:28,000 --> 00:02:30,000
+and tell them what kind of member
+
+58
+00:02:30,000 --> 00:02:32,000
+they are.
+
+59
+00:02:32,000 --> 00:02:34,000
+We will analyze
+
+60
+00:02:34,000 --> 00:02:36,000
+the proportion of members
+
+61
+00:02:36,000 --> 00:02:38,000
+in each group.
+
+62
+00:02:38,000 --> 00:02:40,000
+This is the proposal.
+
+63
+00:02:40,000 --> 00:02:42,000
+Let's disassemble
+
+64
+00:02:42,000 --> 00:02:52,000
+the Open Data Consultation Group.
+
+
